@@ -4,4 +4,4 @@
 
 ### rtl8309-kernel 驱动，实现ioctl接口，实现模拟smi_MDC和 smi_MDIO接口操作；
 
-### rtl8309m-demo 应用层的控制，调用ioctl接口，上线交换机功能配置、状态读取等操作；
+### rtl8309m-demo 应用层的控制，调用ioctl接口，实现交换机功能配置、状态读取等操作；
